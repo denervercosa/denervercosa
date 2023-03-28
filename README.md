@@ -1,5 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
 
+<img align="left" alt="dener-pic" height="150" style="border-radius:50px;"  src="https://cdn.discordapp.com/attachments/1075067205194092599/1090368855622307890/fea9d1af-6b9f-462d-b2ed-97f33a3ad454-removebg-preview.png"/>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7FFFD4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Dener+Vercosa;Tenho+25+anos+;+Formado+no+Bootcamp+Java+Full+Stack+JR;Generation+Brasil;Sejam+Bem-vindos!+:%29)](https://git.io/typing-svg)
 
 
@@ -29,8 +31,12 @@
     <img align="center" alt="SPRING" src="https://img.shields.io/badge/Spring-20232A?style=for-the-badge&logo=spring&logoColor=white" />
     <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=white" />
     </div><br/>
-    
+ 
+
+ 
 <div align="center">
+ <div> <img align="center" alt="dener-pic" height="150" style="border-radius:50px;"  src="https://cdn.discordapp.com/attachments/1075067205194092599/1090369367348367580/d89bb9c3-2c46-445a-ba00-d5f5a4ab476a-removebg-preview.png"/>
+  </div>
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{denervercosa}/count.svg" /></p> 
 <br>
