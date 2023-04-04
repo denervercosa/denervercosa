@@ -2,7 +2,7 @@
 
 <img align="left" alt="dener-pic" height="150" style="border-radius:50px;"  src="https://cdn.discordapp.com/attachments/1075067205194092599/1090368855622307890/fea9d1af-6b9f-462d-b2ed-97f33a3ad454-removebg-preview.png"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7FFFD4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Dener+Vercosa;Tenho+25+anos+;+Formado+no+Bootcamp+Java+Full+Stack+JR;Generation+Brasil;Sejam+Bem-vindos!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7FFFD4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Dener+Vercosa;+Formado+no+Bootcamp+Java+Full+Stack+JR;Sejam+bem-vindos!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
