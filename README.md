@@ -10,8 +10,8 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denervercosa&layout=compact&hide_border=true&title_color=B0E0E6&text_color=40E0D0&bg_color=0d1117" />
 </div>
 
-(https://github-readme-activity-graph.cyclic.app/graph?username=denervercosa&bg_color=000000&color=0091ff&line=0adbd8&point=80ff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<div>(https://github-readme-activity-graph.cyclic.app/graph?username=denervercosa&bg_color=000000&color=0091ff&line=0adbd8&point=80ff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=denervercosa&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
